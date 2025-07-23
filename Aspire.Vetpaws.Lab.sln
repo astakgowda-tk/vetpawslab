@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspire.Vetpaws.Lab.Service"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspire.Vetpaws.Lab.Data", "src\Aspire.Vetpaws.Lab.Data\Aspire.Vetpaws.Lab.Data.csproj", "{B569F3DB-C439-4D59-981A-37B79083CE9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspire.Vetpaws.Lab.Models", "Aspire.Vetpaws.Lab.Models\Aspire.Vetpaws.Lab.Models.csproj", "{51B7FB06-7266-4345-9315-940AE3498AFC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspire.Vetpaws.Lab.Models", "src\Aspire.Vetpaws.Lab.Models\Aspire.Vetpaws.Lab.Models.csproj", "{37140959-824A-0AE2-528F-D75498198D69}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{B569F3DB-C439-4D59-981A-37B79083CE9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B569F3DB-C439-4D59-981A-37B79083CE9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B569F3DB-C439-4D59-981A-37B79083CE9C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{51B7FB06-7266-4345-9315-940AE3498AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{51B7FB06-7266-4345-9315-940AE3498AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{51B7FB06-7266-4345-9315-940AE3498AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{51B7FB06-7266-4345-9315-940AE3498AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37140959-824A-0AE2-528F-D75498198D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37140959-824A-0AE2-528F-D75498198D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37140959-824A-0AE2-528F-D75498198D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37140959-824A-0AE2-528F-D75498198D69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,7 +46,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{CFF246BB-1A0E-4DE9-A9B5-EBEAA591CFFE} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{B569F3DB-C439-4D59-981A-37B79083CE9C} = {31351E82-E765-4568-9356-3C5C29AF7768}
-		{51B7FB06-7266-4345-9315-940AE3498AFC} = {AF7A6015-6649-4969-B84A-E334E6CA2580}
+		{37140959-824A-0AE2-528F-D75498198D69} = {AF7A6015-6649-4969-B84A-E334E6CA2580}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {309562D2-5C02-466E-8848-AEBA0A645769}
