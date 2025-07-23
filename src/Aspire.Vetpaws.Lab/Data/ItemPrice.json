@@ -1,0 +1,27 @@
+[
+  {
+    "Organization": "Vetpaws",
+    "PriceList": [
+      {
+        "ItemName": "COMPLETE BLOOD COUNT - DOG",
+        "ItemDescription": "DOG",
+        "Price": 190
+      },
+      {
+        "ItemName": "COMPLETE BLOOD COUNT - CAT",
+        "ItemDescription": "CAT",
+        "Price": 150
+      },
+      {
+        "ItemName": "BLOOD COUNT - DOG",
+        "ItemDescription": "DOG",
+        "Price": 200
+      },
+      {
+        "ItemName": "BLOOD COUNT - CAT",
+        "ItemDescription": "CAT",
+        "Price": 250
+      }
+    ]
+  }
+]
