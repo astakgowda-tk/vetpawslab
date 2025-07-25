@@ -1,6 +1,9 @@
 ﻿using Aspire.Vetpaws.Lab.Data.Bill;
+using Aspire.Vetpaws.Lab.Models;
+using Aspire.Vetpaws.Lab.Models.Bill;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using System.Linq;
 
 namespace Aspire.Vetpaws.Lab.Controllers
 {
@@ -21,10 +24,48 @@ namespace Aspire.Vetpaws.Lab.Controllers
 
         public IActionResult Index()
         {
-            ViewBag.PriceList = _itemPrice.GetPrice();
-            ViewBag.Gender = new String[] { "FEMALE","MALE"};
+            SetViewBagData();
+            var billModel = new EntryBillModel
+            {
+                Items = new List<BillItemModel>
+                {
+                    new BillItemModel(),
+                    new BillItemModel(),
+                    new BillItemModel(),
+                    new BillItemModel(),
+                    new BillItemModel(),
+                    new BillItemModel(),
+                    new BillItemModel(),
+                    new BillItemModel(),
+                    new BillItemModel(),
+                    new BillItemModel()
+                }
+            };
 
-            return View();
+            return View(billModel);
+        }
+
+        [HttpPost]
+        public IActionResult Index(EntryBillModel model)
+        {
+            SetViewBagData();
+            if (ModelState.IsValid)
+            {
+                return View(model);
+            }
+            else
+            {
+                return View(model);
+            }
+        }
+
+        private void SetViewBagData()
+        {
+            var itemPriceList = new List<ItemPrice>() { new ItemPrice { ItemName = "None", Price = 0 } };
+            itemPriceList.AddRange(_itemPrice.GetPrice());
+
+            ViewBag.PriceList = itemPriceList;
+            ViewBag.Gender = new String[] { "FEMALE", "MALE" };
         }
     }
 }

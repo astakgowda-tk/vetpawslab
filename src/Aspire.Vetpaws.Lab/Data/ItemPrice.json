@@ -21,6 +21,11 @@
         "ItemName": "BLOOD COUNT - CAT",
         "ItemDescription": "CAT",
         "Price": 250
+      },
+      {
+        "ItemName": "Other",
+        "ItemDescription": "Other",
+        "Price": 0
       }
     ]
   }

@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspire.Vetpaws.Lab.Data", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspire.Vetpaws.Lab.Models", "src\Aspire.Vetpaws.Lab.Models\Aspire.Vetpaws.Lab.Models.csproj", "{37140959-824A-0AE2-528F-D75498198D69}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Server", "4. Server", "{6C088598-4345-4199-A28C-AB3FF671C323}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,6 +46,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{B1720B04-CE5F-4F1F-ADD2-4614488E1161} = {6C088598-4345-4199-A28C-AB3FF671C323}
 		{CFF246BB-1A0E-4DE9-A9B5-EBEAA591CFFE} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{B569F3DB-C439-4D59-981A-37B79083CE9C} = {31351E82-E765-4568-9356-3C5C29AF7768}
 		{37140959-824A-0AE2-528F-D75498198D69} = {AF7A6015-6649-4969-B84A-E334E6CA2580}
