@@ -11,6 +11,10 @@ namespace Aspire.Vetpaws.Lab.AutoMapping
         {
             config.CreateMap<LoginUserModel, LoginUser>();
             config.CreateMap<BillItemPriceModel, ItemPrice>();
+            
+            config.CreateMap<EntryBillModel, BillEntry>();
+            config.CreateMap<BillItemModel, BillEntryItem>();
+
             return config;
         }
     }

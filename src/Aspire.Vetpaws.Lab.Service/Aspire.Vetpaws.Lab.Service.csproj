@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Admin\" />
-    <Folder Include="Billing\" />
     <Folder Include="Email\" />
     <Folder Include="Report\" />
   </ItemGroup>

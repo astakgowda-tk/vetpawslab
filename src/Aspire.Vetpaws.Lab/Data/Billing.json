@@ -1,0 +1,305 @@
+[
+  {
+    "PatientName": "Abc",
+    "OwnerName": "syys",
+    "AgeInYear": 1,
+    "AgeInMonths": 3,
+    "Gender": 1,
+    "ReferredBy": "Karna",
+    "RegistrationNumber": "20259341",
+    "DiscountApplied": 100,
+    "DiscountFromDoctor": true,
+    "BilledTime": "2025-07-26T08:56:54.342",
+    "CreatedAt": "2025-07-26T03:54:28.7948821Z",
+    "Items": [
+      {
+        "ItemName": "250",
+        "CustomItemName": null,
+        "Price": 250,
+        "Quantity": 1,
+        "TotalPrice": 250
+      },
+      {
+        "ItemName": "190",
+        "CustomItemName": null,
+        "Price": 190,
+        "Quantity": 1,
+        "TotalPrice": 190
+      },
+      {
+        "ItemName": "0",
+        "CustomItemName": "RBC",
+        "Price": 100,
+        "Quantity": 1,
+        "TotalPrice": 100
+      }
+    ]
+  },
+  {
+    "PatientName": "Abcthanuj",
+    "OwnerName": "syys",
+    "AgeInYear": 1,
+    "AgeInMonths": 3,
+    "Gender": 1,
+    "ReferredBy": "Karna",
+    "RegistrationNumber": "20259341",
+    "DiscountApplied": 100,
+    "DiscountFromDoctor": true,
+    "BilledTime": "2025-07-26T08:56:54.342",
+    "CreatedAt": "2025-07-26T03:54:56.6329765Z",
+    "Items": [
+      {
+        "ItemName": "250",
+        "CustomItemName": null,
+        "Price": 250,
+        "Quantity": 1,
+        "TotalPrice": 250
+      },
+      {
+        "ItemName": "190",
+        "CustomItemName": null,
+        "Price": 190,
+        "Quantity": 1,
+        "TotalPrice": 190
+      },
+      {
+        "ItemName": "0",
+        "CustomItemName": "RBC",
+        "Price": 100,
+        "Quantity": 1,
+        "TotalPrice": 100
+      }
+    ]
+  },
+  {
+    "PatientName": "Abcthanuj",
+    "OwnerName": "syys",
+    "AgeInYear": 1,
+    "AgeInMonths": 3,
+    "Gender": 1,
+    "ReferredBy": "Karna",
+    "RegistrationNumber": "20259341",
+    "DiscountApplied": 100,
+    "DiscountFromDoctor": false,
+    "BilledTime": "2025-07-26T08:56:54.342",
+    "CreatedAt": "2025-07-26T03:55:32.842134Z",
+    "Items": [
+      {
+        "ItemName": "250",
+        "CustomItemName": null,
+        "Price": 250,
+        "Quantity": 1,
+        "TotalPrice": 250
+      },
+      {
+        "ItemName": "190",
+        "CustomItemName": null,
+        "Price": 190,
+        "Quantity": 1,
+        "TotalPrice": 190
+      },
+      {
+        "ItemName": "0",
+        "CustomItemName": "RBC",
+        "Price": 100,
+        "Quantity": 1,
+        "TotalPrice": 100
+      }
+    ]
+  },
+  {
+    "PatientName": "Abcthanujk",
+    "OwnerName": "syys",
+    "AgeInYear": 1,
+    "AgeInMonths": 3,
+    "Gender": 1,
+    "ReferredBy": "Karna",
+    "RegistrationNumber": "20259341",
+    "DiscountApplied": 100,
+    "DiscountFromDoctor": false,
+    "BilledTime": "2025-07-26T08:56:54.342",
+    "CreatedAt": "2025-07-26T03:55:38.6016268Z",
+    "Items": [
+      {
+        "ItemName": "250",
+        "CustomItemName": null,
+        "Price": 250,
+        "Quantity": 1,
+        "TotalPrice": 250
+      },
+      {
+        "ItemName": "190",
+        "CustomItemName": null,
+        "Price": 190,
+        "Quantity": 1,
+        "TotalPrice": 190
+      },
+      {
+        "ItemName": "0",
+        "CustomItemName": "RBC",
+        "Price": 100,
+        "Quantity": 1,
+        "TotalPrice": 100
+      }
+    ]
+  },
+  {
+    "PatientName": "Abcthanujk",
+    "OwnerName": "syys",
+    "AgeInYear": 1,
+    "AgeInMonths": 3,
+    "Gender": 1,
+    "ReferredBy": "Karna",
+    "RegistrationNumber": "20259341",
+    "DiscountApplied": 0,
+    "DiscountFromDoctor": false,
+    "BilledTime": "2025-07-26T08:56:54.342",
+    "CreatedAt": "2025-07-26T03:55:45.224713Z",
+    "Items": [
+      {
+        "ItemName": "250",
+        "CustomItemName": null,
+        "Price": 250,
+        "Quantity": 1,
+        "TotalPrice": 250
+      },
+      {
+        "ItemName": "190",
+        "CustomItemName": null,
+        "Price": 190,
+        "Quantity": 1,
+        "TotalPrice": 190
+      },
+      {
+        "ItemName": "0",
+        "CustomItemName": "RBC",
+        "Price": 100,
+        "Quantity": 1,
+        "TotalPrice": 100
+      }
+    ]
+  },
+  {
+    "PatientName": "Abcthanujk",
+    "OwnerName": "syys",
+    "AgeInYear": 1,
+    "AgeInMonths": 3,
+    "Gender": 1,
+    "ReferredBy": "Karna",
+    "RegistrationNumber": "20259341",
+    "DiscountApplied": 0,
+    "DiscountFromDoctor": false,
+    "BilledTime": "2025-07-26T08:56:54.342",
+    "CreatedAt": "2025-07-26T03:55:59.3819516Z",
+    "Items": [
+      {
+        "ItemName": "250",
+        "CustomItemName": null,
+        "Price": 250,
+        "Quantity": 1,
+        "TotalPrice": 250
+      },
+      {
+        "ItemName": "190",
+        "CustomItemName": null,
+        "Price": 190,
+        "Quantity": 1,
+        "TotalPrice": 190
+      }
+    ]
+  },
+  {
+    "PatientName": "Abcthanujk",
+    "OwnerName": "syys",
+    "AgeInYear": 1,
+    "AgeInMonths": 3,
+    "Gender": 1,
+    "ReferredBy": "Karna",
+    "RegistrationNumber": "20259341",
+    "DiscountApplied": 0,
+    "DiscountFromDoctor": false,
+    "BilledTime": "2025-07-26T08:56:54.342",
+    "CreatedAt": "2025-07-26T03:57:40.1709381Z",
+    "Items": [
+      {
+        "ItemName": "250",
+        "CustomItemName": null,
+        "Price": 250,
+        "Quantity": 1,
+        "TotalPrice": 250
+      },
+      {
+        "ItemName": "190",
+        "CustomItemName": null,
+        "Price": 190,
+        "Quantity": 1,
+        "TotalPrice": 190
+      }
+    ]
+  },
+  {
+    "PatientName": "Abcthanujk",
+    "OwnerName": "syys",
+    "AgeInYear": 1,
+    "AgeInMonths": 3,
+    "Gender": 1,
+    "ReferredBy": "Karna",
+    "RegistrationNumber": "20259341",
+    "DiscountApplied": 0,
+    "DiscountFromDoctor": false,
+    "BilledTime": "2025-07-26T08:56:54.342",
+    "CreatedAt": "2025-07-26T03:58:12.2904876Z",
+    "Items": [
+      {
+        "ItemName": "250",
+        "CustomItemName": null,
+        "Price": 250,
+        "Quantity": 1,
+        "TotalPrice": 250
+      },
+      {
+        "ItemName": "190",
+        "CustomItemName": null,
+        "Price": 190,
+        "Quantity": 1,
+        "TotalPrice": 190
+      }
+    ]
+  },
+  {
+    "PatientName": "Abcthanujk",
+    "OwnerName": "syys",
+    "AgeInYear": 1,
+    "AgeInMonths": 3,
+    "Gender": 1,
+    "ReferredBy": "Karna",
+    "RegistrationNumber": "20259341",
+    "DiscountApplied": 0,
+    "DiscountFromDoctor": false,
+    "BilledTime": "2025-07-26T08:56:54.342",
+    "CreatedAt": "2025-07-26T03:58:24.7935877Z",
+    "Items": [
+      {
+        "ItemName": "250",
+        "CustomItemName": null,
+        "Price": 250,
+        "Quantity": 1,
+        "TotalPrice": 250
+      },
+      {
+        "ItemName": "190",
+        "CustomItemName": null,
+        "Price": 190,
+        "Quantity": 1,
+        "TotalPrice": 190
+      },
+      {
+        "ItemName": "0",
+        "CustomItemName": "RBC",
+        "Price": 100,
+        "Quantity": 1,
+        "TotalPrice": 100
+      }
+    ]
+  }
+]
