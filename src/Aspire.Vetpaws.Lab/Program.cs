@@ -1,5 +1,6 @@
 using Aspire.Vetpaws.Lab.AutoMapping;
 using Aspire.Vetpaws.Lab.Data.Bill;
+using Aspire.Vetpaws.Lab.Service.Billing;
 using Aspire.Vetpaws.Lab.Service.Login;
 using AutoMapper;
 using Microsoft.AspNetCore.Authentication.Cookies;
@@ -23,7 +24,10 @@ IMapper mapper = new MapperConfiguration(cfg =>
 
 builder.Services.AddSingleton(mapper);
 builder.Services.AddSingleton<ILoginService, LoginService>();
+builder.Services.AddSingleton<IBillingService, BillingService>();
+
 builder.Services.AddSingleton<IItemPriceData, ItemPriceData>();
+builder.Services.AddSingleton<IBillingData, BillingData>();
 
 builder.Services.AddSession(options =>
 {

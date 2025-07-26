@@ -2,8 +2,8 @@
 
 namespace Aspire.Vetpaws.Lab.Data.Bill
 {
-    public interface IItemPriceData
+    public interface IBillingData
     {
-        IEnumerable<ItemPrice> GetItemPrices();
+        public bool AddBill(BillEntry bill);
     }
 }

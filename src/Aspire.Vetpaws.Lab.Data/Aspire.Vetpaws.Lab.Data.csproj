@@ -7,8 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Aspire.Vetpaws.Lab.Models\Aspire.Vetpaws.Lab.Models.csproj" />
     <ProjectReference Include="..\Aspire.Vetpaws.Lab.Models\Aspire.Vetpaws.Lab.Models.csproj" />
   </ItemGroup>
+
 
 </Project>
